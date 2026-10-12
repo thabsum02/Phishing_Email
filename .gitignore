@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+analysis_report.json
+.venv/
+venv/
+.env
+.DS_Store
