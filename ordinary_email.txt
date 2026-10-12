@@ -1,0 +1,10 @@
+From: Library Team <library@example.invalid>
+Subject: Library opening hours
+
+Hello,
+
+The library will open at 9:00 AM on Monday and close at 5:00 PM.
+Please reply to this message if you have questions.
+
+Regards,
+Library Team
